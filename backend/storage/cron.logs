@@ -1,0 +1,26 @@
+
+  2023-10-11 14:30:02 Running [App\Jobs\SendEmailJob] .............. 18ms DONE
+
+
+  2023-10-11 14:31:01 Running [App\Jobs\SendEmailJob] .............. 16ms DONE
+
+
+  2023-10-11 14:32:01 Running [App\Jobs\SendEmailJob] .............. 21ms DONE
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+  2023-10-11 14:34:01 Running [App\Jobs\SendEmailJob] .............. 17ms DONE
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+  2023-10-11 14:36:02 Running [App\Jobs\SendEmailJob] .............. 19ms DONE
+
+
+  2023-10-22 15:50:01 Running [App\Jobs\SendEmailJob] .............. 67ms FAIL
+  2023-10-22 15:50:01 Running ['artisan' queue:work] 
+  2023-10-22 15:51:01 Running [App\Jobs\SendEmailJob] .............. 30ms FAIL
+  2023-10-22 15:51:01 Running ['artisan' queue:work] 
